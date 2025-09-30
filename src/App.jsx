@@ -120,7 +120,7 @@ export default function App() {
     {
       title: 'Distribution & Streaming Platform',
       period: '2025 – Present',
-      desc: 'Backend platform to deliver music to major digital stores such as Apple Music, Spotify, LINE MUSIC, etc. Handles ingestion of audio files and metadata and orchestrates delivery via Eggs Pass.',
+      desc: 'Backend platform to deliver music to major digital stores such as Apple Music, Spotify, LINE MUSIC, etc. Handles ingestion of audio files and metadata and orchestrates delivery.',
       tech: ['Python (Flask)', 'AWS (Lambda, S3, Step Functions)', 'MySQL', 'REST APIs'],
       highlights: ['Automated ingestion and validation of music files & metadata',
       'Integrated with multiple DSPs (Apple Music, Spotify, LINE MUSIC)',
